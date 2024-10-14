@@ -1,7 +1,6 @@
-# Hi there. I'm Caye 👋🏽
-I'm based in Manila, Philippines, and I'm part of the Casa team. I've been building things on the web since 2018 (sometimes I [write](https://mcborreo.medium.com) about them), and I primarily use React/NodeJS for my projects.
+Hey there, I'm **Caye**. I'm part of TELUS' Casa delivery team, Samarpan Squad to be specific. We handle modules like Case Management & Profile.
 
-You may reach me through Slack or via email at caye.borreo@telusinternational.com. I'm active 3pm-12mn, Manila time (PHT).
+I'm based in Manila, Philippines, and am active 6pm-2am Manila time (PHT). You may reach me through Slack for quicker replies, or via email at caye.borreo@telusinternational.com.
 
 <!---
 caye-telus/caye-telus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
